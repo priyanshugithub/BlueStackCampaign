@@ -8,12 +8,12 @@ import German from './de.json';
 
 
 export default function LanguageProvider(props) {
-    // state functions 
+    // setting initial state with language 
     const [locale, setLocale] = useState('en');
     const [lang, setLang] = useState(English);
 
 
-    // change Langauage files
+    // switch operation to provide Langauge Selection Option
     const changeLang = (getLang) => {
         setLocale(getLang);
         switch (getLang) {
