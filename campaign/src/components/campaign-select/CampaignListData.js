@@ -6,7 +6,7 @@ const data = {
       "price": "Price info of Test Whatsapp",
       "csv": "Some CSV link for Whatsapp",
       "report": "Some report link for Whatsapp",
-      "image_url":"Some image url of the campaign" 
+      "image_url":"G1.png"
     },
     {
       "name": "Super Jewels Quest",
@@ -15,7 +15,7 @@ const data = {
       "price": "Price info of Super Jewels Quest",
       "csv": "Some CSV link for Super Jewels Quest",
       "report": "Some report link for Super Jewels Ques",
-      "image_url":"Some image url of the campaign"
+      "image_url":"G2.png"
     },
     {
       "name": "Mole Slayer",
@@ -24,7 +24,7 @@ const data = {
       "price": "Price info of Mole Slayer",
       "csv": "Some CSV link for Mole Slayer",
       "report": "Some report link for Mole Slayer",
-      "image_url":"Some image url of the campaign"
+      "image_url":"G3.png"
     },
     {
       "name": "Mancala Mix",
@@ -33,7 +33,7 @@ const data = {
       "price": "Price info of Mancala Mix",
       "csv": "Some CSV link for Mancala Mix",
       "report": "Some report link for Mancala Mix",
-      "image_url":"Some image url of the campaign"
+      "image_url":"G4.png"
     }
     ]
   };
