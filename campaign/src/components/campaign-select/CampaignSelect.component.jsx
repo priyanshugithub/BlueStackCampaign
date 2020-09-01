@@ -4,12 +4,12 @@ import CampaignTabManager from '../CampaignTabManager/CampaignTabManager.compone
 import Translator from '../translator/translator';
 import defaultMsg from '../LangauageSelector/defaultMessages';
 
-// tabs components - 3 (upcoming, live, past) compaigns
+//Component to select between campaign based on Time
+//Categories are Past, live and upcoming
 
 function CampaignSelect(props) {
     const [active, setActive] = useState("");
 
-    // click handler which handles everytime clicked on the tabs
     function handleClick(event) {
         setActive(event.target.title);
     }
